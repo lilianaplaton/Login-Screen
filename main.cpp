@@ -22,7 +22,7 @@ int main()
     }
     else
     {
-        system ("Color 0C");
+        system ("Color 0A");
         cout << "*Username and Password do not mach, Please try again later!" << endl;
         cout << "| LOGIN SCREEN |" << endl;
         return 0;
